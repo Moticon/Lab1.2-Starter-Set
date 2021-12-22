@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{d25e7f8a-5e55-485f-ba92-7a0df8cd44d0}</ProjectGuid>
-    <RootNamespace>findNULL</RootNamespace>
+    <ProjectGuid>{a47b3398-bcf1-4dff-a11b-0aa231540262}</ProjectGuid>
+    <RootNamespace>mergeTwo</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>findNULL</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -140,11 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="findNullFunctions.cpp" />
-    <ClCompile Include="findNullMain.cpp" />
+    <ClCompile Include="MergeFunctions.cpp" />
+    <ClCompile Include="mergeMain.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="findNullHeader.h" />
+    <ClInclude Include="mergeHeader.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
