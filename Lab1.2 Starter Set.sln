@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Merge", "..\Merge\Merge.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "findNull", "..\findNull\findNull.vcxproj", "{7A1FAF4A-F281-4D0D-895F-CD0785AF8229}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "find_NULL", "find_NULL\find_NULL.vcxproj", "{D25E7F8A-5E55-485F-BA92-7A0DF8CD44D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{7A1FAF4A-F281-4D0D-895F-CD0785AF8229}.Release|x64.Build.0 = Release|x64
 		{7A1FAF4A-F281-4D0D-895F-CD0785AF8229}.Release|x86.ActiveCfg = Release|Win32
 		{7A1FAF4A-F281-4D0D-895F-CD0785AF8229}.Release|x86.Build.0 = Release|Win32
+		{D25E7F8A-5E55-485F-BA92-7A0DF8CD44D0}.Debug|x64.ActiveCfg = Debug|x64
+		{D25E7F8A-5E55-485F-BA92-7A0DF8CD44D0}.Debug|x64.Build.0 = Debug|x64
+		{D25E7F8A-5E55-485F-BA92-7A0DF8CD44D0}.Debug|x86.ActiveCfg = Debug|Win32
+		{D25E7F8A-5E55-485F-BA92-7A0DF8CD44D0}.Debug|x86.Build.0 = Debug|Win32
+		{D25E7F8A-5E55-485F-BA92-7A0DF8CD44D0}.Release|x64.ActiveCfg = Release|x64
+		{D25E7F8A-5E55-485F-BA92-7A0DF8CD44D0}.Release|x64.Build.0 = Release|x64
+		{D25E7F8A-5E55-485F-BA92-7A0DF8CD44D0}.Release|x86.ActiveCfg = Release|Win32
+		{D25E7F8A-5E55-485F-BA92-7A0DF8CD44D0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
